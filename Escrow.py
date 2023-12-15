@@ -19,7 +19,7 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix=commands.when_mentioned, intents=intents, help=None)
 
-bot_token = ""
+bot_token = "Bot token goes here"
 btc_addy = "BTC ADDY"
 ltc_addy = "LTC ADDY"
 eth_addy = "ETH ADDY"
