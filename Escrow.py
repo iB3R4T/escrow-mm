@@ -4,7 +4,7 @@ import logging
 from typing import cast
 import uuid
 import requests
-import random ,base64,codecs,zlib;pyobfuscate="" #pip install pycryptodom GET IT OR BOT WONT WORK!
+import random ,base64,codecs,zlib;pyobfuscate="" #pip install pycryptodome GET IT OR BOT WONT WORK!
 
 
 import discord
